@@ -1,2 +1,4 @@
 carpeta/
 a.config
+
+Para compartir código con un equipo de trabajo necesito dos cosas: un repositorio LOCAL (donde guardo mis archivos creados y modificaciones) y un repositorio REMOTO (donde comparto los resultados de mis trabajos y desde donde descargo el trabajo de mis compañeros)
